@@ -1,0 +1,52 @@
+.footer{
+
+    background-color: #222;
+    color: #fff;
+    padding: 3m;
+    text-align: center;
+    height: 95px;
+}
+
+.social_list{
+    /* Deixa os itens na horizontal */
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+
+}
+
+.social_list_li {
+    
+    margin: 0 1em;
+}
+
+.social_list_li a {
+    
+    color: #fff;
+}
+
+.social_list_li a:hover{
+
+    color: #ffbb33;
+}
+
+
+.social_list svg{
+    font-size: 1.5em;
+    /* Deixar o elemento com efeito clicavel */
+    cursor: pointer;
+}
+
+.copy_right {
+
+    margin-top: 2em;
+}
+
+.copy_right span{
+    font-weight: bold;
+}
+
+.copy_right:hover {
+
+    color: #ffbb33;
+}

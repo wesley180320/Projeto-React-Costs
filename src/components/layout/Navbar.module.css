@@ -1,0 +1,36 @@
+.navbar{
+
+    display: flex;
+    /* Espaçar entre os elementos da navbar */
+    justify-content: space-evenly;
+    background-color: #222;
+    padding: 1em;
+}
+
+.list{
+    display: flex;
+    /* Tirar as bolinhas do lado dos links */
+    list-style: none;
+    align-items: center;
+    
+}
+
+.item{
+    /* Espaçar os elementos das listas */
+    margin-left: 1em;
+    
+}
+
+.item_a {
+
+    color: #fff;
+    /* tirar o sublinhado dos links */
+    text-decoration: none;    
+
+}
+
+/* Mudar a cor do texto ao passar o mouse encima */
+.item_a:hover{
+
+    color: #ffbb33;
+}
