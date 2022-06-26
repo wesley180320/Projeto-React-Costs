@@ -9,7 +9,7 @@ const Home = () => {
         <section className={styles.home}>
             <h1>Bem vindo ao <span>Costs</span></h1>
             <p>Comece a gerencias seus projetos</p>
-            <img src={Savings}/>
+            <img src={Savings} alt="savings" />
 
         </section>
 
