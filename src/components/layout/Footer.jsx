@@ -13,8 +13,8 @@ const Footer = () => {
 
                 <ul className={styles.social_list}>
 
-                    <li className={styles.social_list_li}>  <FaFacebook /></li>
-                    <li  className={styles.social_list_li}>  <FaInstagram /> </li>
+                    <li className={styles.social_list_li}>  <a href="https://www.facebook.com/wesley.estevao.585"><FaFacebook /></a></li>
+                    <li  className={styles.social_list_li}>  <a href="https://www.instagram.com/dev_wesley.souza/"> <FaInstagram /> </a> </li>
                     <li  className={styles.social_list_li}>  <a href="https://www.linkedin.com/in/wesley-de-souza-4a0372157/"><FaLinkedin /></a></li>
                     <li  className={styles.social_list_li}>  <a href="https://github.com/wesley180320"><FaGithub /></a> </li>
 
