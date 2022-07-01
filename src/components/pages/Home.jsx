@@ -7,6 +7,7 @@ const Home = () => {
     return (
 
         <section className={styles.home}>
+        <meta name="google-site-verification" content="ow3HNfsMGNfrXUkUmApjuIETuzB62d-mfHmzCPI-_CE" />
             <h1>Bem vindo ao <span>Costs</span></h1>
             <p>Comece a gerenciar seus projetos</p>
             <img src={Savings} alt="savings" />
