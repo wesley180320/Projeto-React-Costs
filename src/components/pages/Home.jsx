@@ -15,6 +15,7 @@ const Home = () => {
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2551536037559679"
      crossorigin="anonymous"></script>
+<meta name="google-site-verification" content="ow3HNfsMGNfrXUkUmApjuIETuzB62d-mfHmzCPI-_CE" />
     )
 
 }
