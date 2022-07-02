@@ -25,3 +25,17 @@ flex-direction: column;
 justify-content: flex-start;
 
 }
+
+@media(max-width: 992px){
+
+    .container{
+
+        width: 300px;
+        display: flex;
+        justify-content: space-evenly;
+        margin-top: 0 auto;
+        flex-wrap: wrap;
+    
+    }
+    
+}
