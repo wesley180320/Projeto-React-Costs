@@ -13,9 +13,8 @@ const Home = () => {
 
         </section>
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2551536037559679"
-     crossorigin="anonymous"></script>
 
+    
     )
 
 }
